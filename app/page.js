@@ -1,4 +1,4 @@
-import ObjectDetection from "@/components/ObjectDetection";
+import ObjectDetection from "@/components/object-detection";
 
 
 export default function Home() {
